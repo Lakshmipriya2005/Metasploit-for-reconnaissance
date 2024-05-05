@@ -103,5 +103,5 @@ set the PASS_FILE parameter to the wordlist path available inside /usr/share/wor
 
 
 ## RESULT:
-The Metasploit framework for reconnaissance is examined successfully## EXECUTION STEPS AND ITS OUTPUT:
+The Metasploit framework for reconnaissance is examined successfully
 
